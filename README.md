@@ -1,2 +1,2 @@
-# led-grow-lights
-LED grow light design for my old vertical farm
+My vertical farming startup, although ultimately failed, was an incredible learning experience, and I got the opportunity to design a complete indoor vertical farming solution from the ground up, using custom designed enclosures, irrigation system, power and control electronics, as well as the LED grow lights themselves. This repo shows a part of the design process, including the end results. I've also attached the design files, though I don't recommend sending them to PCBWay and getting them made. They will work, but they were specifically designed for our farm design, and will result in an awkward installation and operation.
+
